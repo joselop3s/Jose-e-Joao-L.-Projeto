@@ -1,0 +1,19 @@
+.all{
+    background-color: rgb(29, 158, 18);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1{
+    text-align: left;
+}
+.container{
+  
+}
+footer {
+	background-color: #4d4a4a;
+	color: #fff;
+	padding: 30px;
+	text-align: left;
+	margin-top: 0px;
+}
